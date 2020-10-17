@@ -76,7 +76,20 @@
             <artifactId>spring-aop</artifactId>
             <version>2.5.6</version>
         </dependency>
-
+        
+        <dependency>
+         <groupId>com.github.jknack</groupId>
+         <artifactId>handlebars.java</artifactId>
+         <version>4.1.2</version>
+         <type>pom</type>
+        </dependency>
+        
+        <dependency>
+         <groupId>com.github.jknack</groupId>
+         <artifactId>handlebars.java</artifactId>
+         <version>4.1.2</version>
+         <type>pom</type>
+        </dependency>
         <!-- dependency with classifier -->
        <dependency>
             <groupId>org.testng</groupId>
