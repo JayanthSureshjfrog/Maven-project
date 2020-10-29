@@ -32,14 +32,12 @@
          <artifactId>handlebars.java</artifactId>
          <version>4.2.0</version>
          <type>pom</type>
-        </dependency>  
-        	
+        </dependency>       	
 	<dependency>
 	<groupId>com.elektrobit</groupId>
-    <artifactId>ASL-Implementation</artifactId>
+        <artifactId>ASL-Implementation</artifactId>
 	<version>0.0.1</version>
-    <name>ASL-Implementation</name>
-    </dependency>
+       </dependency>
         
     </dependencies>
 
