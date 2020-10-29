@@ -31,6 +31,7 @@
 	<groupId>com.elektrobit</groupId>
         <artifactId>ASL-Implementation</artifactId>
 	<version>0.0.1</version>
+	<type>pom</type>
        </dependency>
         
     </dependencies>
