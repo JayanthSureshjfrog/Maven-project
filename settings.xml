@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>AP68vKHfDTybdX7C3xV7ibFwrbQ</password>
+      <password>AP4YecPP39p9JYh5eHbJ7koWaHG</password>
       <id>central</id>
     </server>
     <server>
       <username>admin</username>
-      <password>AP68vKHfDTybdX7C3xV7ibFwrbQ</password>
+      <password>AP4YecPP39p9JYh5eHbJ7koWaHG</password>
       <id>snapshots</id>
     </server>
   </servers>
@@ -22,13 +22,13 @@
           </snapshots>
           <id>central</id>
           <name>Maven-virtual</name>
-          <url>http://mill.jfrog.info:12082/artifactory/Maven-virtual</url>
+          <url>http://mill.jfrog.info:12434/artifactory/Maven-virtual</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
           <name>Maven-virtual</name>
-          <url>http://mill.jfrog.info:12082/artifactory/Maven-virtual</url>
+          <url>http://mill.jfrog.info:12434/artifactory/Maven-virtual</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -38,13 +38,13 @@
           </snapshots>
           <id>central</id>
           <name>Maven-virtual</name>
-          <url>http://mill.jfrog.info:12082/artifactory/Maven-virtual</url>
+          <url>http://mill.jfrog.info:12434/artifactory/Maven-virtual</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>Maven-virtual</name>
-          <url>http://mill.jfrog.info:12082/artifactory/Maven-virtual</url>
+          <url>http://mill.jfrog.info:12434/artifactory/Maven-virtual</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
@@ -54,3 +54,4 @@
     <activeProfile>artifactory</activeProfile>
   </activeProfiles>
 </settings>
+
