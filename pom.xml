@@ -19,6 +19,13 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
+    <scm>
+    <connection>scm:git:git@github.com:JayanthSureshjfrog/Maven-project.git</connection>
+    <developerConnection>scm:git:git@github.com:JayanthSureshjfrog/Maven-project.git</developerConnection>
+    <url>https://github.com/JayanthSureshjfrog/Maven-project</url>
+  </scm>
+    
+    
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
