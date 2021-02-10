@@ -23,6 +23,7 @@
     <connection>scm:git:git@github.com:JayanthSureshjfrog/Maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:JayanthSureshjfrog/Maven-project.git</developerConnection>
     <url>https://github.com/JayanthSureshjfrog/Maven-project</url>
+        <tag>HEAD</tag>
   </scm>
     
     
