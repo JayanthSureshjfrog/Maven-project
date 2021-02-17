@@ -20,13 +20,22 @@
     </properties>
 
     <scm>
-    <connection>scm:git:git@github.com:JayanthSureshjfrog/Maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:JayanthSureshjfrog/Maven-project.git</developerConnection>
-    <url>https://github.com/JayanthSureshjfrog/Maven-project</url>
-        <tag>HEAD</tag>
+    <connection>scm:git:https://github.com/JayanthSureshjfrog/jayanthtest</connection>
+    <developerConnection>scm:git:https://github.com/JayanthSureshjfrog/jayanthtest</developerConnection>
+    <url>https://github.com/JayanthSureshjfrog/jayanthtest</url>
   </scm>
-    
-    
+  <developers>
+    <developer>
+      <id>jayanthsureshjfrog</id>
+      <name>jayanth suresh</name>
+      <email>jayanths@jfrog.com</email>
+      <organization>JFrog</organization>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
