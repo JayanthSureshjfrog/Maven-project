@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jfrog.test</groupId>
     <artifactId>multi</artifactId>
-    <version>4.8.22</version>
+    <version>4.8.42-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
@@ -23,7 +23,6 @@
     <connection>scm:git:https://github.com/JayanthSureshjfrog/Maven-project</connection>
     <developerConnection>scm:git:https://github.com/JayanthSureshjfrog/Maven-project</developerConnection>
     <url>https://github.com/JayanthSureshjfrog/Maven-project</url>
-    <tag>multi-4.8.22</tag>
   </scm>
   <developers>
     <developer>
